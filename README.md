@@ -1,4 +1,10 @@
-# unforgettable
+# zenbu.do
+
+To-do management Apps with sleek and smooth UI.
+
+Prerequisites:
+1. Latest Node.js
+2. Latest Browser (Recommended using chrome or Firefox)
 
 ## Project setup
 ```
